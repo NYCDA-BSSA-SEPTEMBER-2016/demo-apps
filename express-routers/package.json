@@ -1,0 +1,14 @@
+{
+  "name": "express-routers",
+  "version": "0.0.1",
+  "description": "Showing express routers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mentor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

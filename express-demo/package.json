@@ -1,0 +1,16 @@
+{
+  "name": "express-demo",
+  "version": "0.0.1",
+  "description": "Little example of how express works",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "demo"
+  ],
+  "author": "Mentor",
+  "license": "MIT"
+}
